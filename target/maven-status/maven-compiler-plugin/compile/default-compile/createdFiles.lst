@@ -9,6 +9,7 @@ com\porfolio\mgb\Security\Entity\Rol.class
 com\porfolio\mgb\Controller\CEducacion.class
 com\porfolio\mgb\Security\Controller\Mensaje.class
 com\porfolio\mgb\Controller\PersonaController.class
+com\porfolio\mgb\Interface\IPersonaService.class
 com\porfolio\mgb\Service\SExperiencia.class
 com\porfolio\mgb\Controller\CHys.class
 com\porfolio\mgb\Repository\RExperiencia.class
